@@ -1,0 +1,20 @@
+[
+  {
+    "vorname": "anastasia",
+    "nachname": "cusnir",
+    "geburtsjahr": 2003,
+    "wohnort": "bremen"
+  },
+  {
+    "vorname": "ana",
+    "nachname": "lena",
+    "geburtsjahr": 2000,
+    "wohnort": "bremen"
+  },
+  {
+    "vorname": "max",
+    "nachname": "mustermann",
+    "geburtsjahr": 1999,
+    "wohnort": "bremen"
+  }
+]
